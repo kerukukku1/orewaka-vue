@@ -4,11 +4,11 @@
 
 ## chapter1 \(basic skill\)
 
-* [Hello, World!](zzz/hello-world.md)
-* [computed](zzz/computed.md)
-* [methods](zzz/methods.md)
-* [v-bind](zzz/v-bind.md)
-* [v-for, v-if](zzz/v-for-v-if.md)
-* [v-on](zzz/v-on-1.md)
-* [v-model](zzz/v-model.md)
+* [Hello, World!](chapter1/hello-world.md)
+* [computed](chapter1/computed.md)
+* [methods](chapter1/methods.md)
+* [v-bind](chapter1/v-bind.md)
+* [v-for, v-if](chapter1/v-for-v-if.md)
+* [v-on](chapter1/v-on-1.md)
+* [v-model](chapter1/v-model.md)
 
