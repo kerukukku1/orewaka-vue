@@ -75,7 +75,7 @@ Vue.set(vm.colorObject, 'color', 'blue');
 </div>
 ```
 
-ここでisRedBackはdataに定義されたBoolean型の変数です。
+ここでisRedBackはdataに定義されたBoolean型のプロパティです。
 
 ```javascript
 data: {

@@ -11,4 +11,9 @@
 * [v-for, v-if](chapter1/v-for-v-if.md)
 * [v-on](chapter1/v-on-1.md)
 * [v-model](chapter1/v-model.md)
+* [CHAPTER1 - challenge](chapter1/challenge.md)
+
+## chapter2 \(component\)
+
+* [Untitled](chapter2-component/untitled.md)
 
