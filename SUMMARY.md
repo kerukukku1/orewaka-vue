@@ -16,5 +16,6 @@
 ## chapter2 \(component\)
 
 * [コンポーネントについて](chapter2-component/untitled.md)
-* [Vue Component](chapter2-component/vue-component.md)
+* [グローバルコンポーネント](chapter2-component/vue-component.md)
+* [ローカルコンポーネント](chapter2-component/rkarukonpnento.md)
 
