@@ -1,4 +1,4 @@
-# methods
+# 関数 \(methods\)
 
 methodsはVueインスタンスに組み込まれるメソッド群です。computed同様に以下のようにVueインスタンスに対して渡すことができます。
 

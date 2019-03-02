@@ -1,4 +1,4 @@
-# computed
+# 算術プロパティ \(computed\)
 
 前回のHello, World!の表示ではVueインスタンスのコンストラクタにJSON形式で値を渡していました。
 
